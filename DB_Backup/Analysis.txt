@@ -1,0 +1,56 @@
+Design database for school management system: School has Play, Nursury, KG-01, KG-02, class one to class five. Each classs has many section and moring shift and day shift. 
+
+
+
+Key Requirements Recap
+
+School has these classes:
+
+Play, Nursery, KG-01, KG-02, Class-01, Class-02, Class-03, Class-04, Class-05
+
+Each class can have multiple sections (e.g., Section A, B, C).
+
+There are two shifts: Morning and Day.
+
+Students belong to one class, one section, and one shift.
+
+Teachers can be assigned to multiple classes/sections.
+
+Subjects vary per class.
+
+
+Main Entities:
+
+classes – Stores class names like Play, Nursery, KG-01, etc.
+
+sections – Stores sections like A, B, C.
+
+shifts – Stores Morning, Day.
+
+students – Stores student information.
+
+teachers – Stores teacher information.
+
+subjects – Stores subjects like Math, English, etc.
+
+class_subjects – Assign subjects to specific classes.
+
+class_sections – Connects classes with sections and shifts.
+
+enrollments – Which student is enrolled in which class, section, and shift.
+
+
+
+
+
+
+
+
+
+1. Student list with student ID
+2. Koyekta student er admission form 
+3. How many classes (list with group and shift and section)
+4. Teacher and Staff list 
+5. Tution fees 
+6. Subject list for each class
+
