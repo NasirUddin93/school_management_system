@@ -52,10 +52,10 @@ class ClassSection extends Model
         return $this->hasMany(Student::class, 'class_section_id');
     }
     public function subjects()
-{
-    return $this->belongsToMany(Subject::class, 'class_subjects', 'class_section_id', 'subject_id')
-                ->withTimestamps();
-}
+    {
+        return $this->belongsToMany(Subject::class, 'class_subjects', 'class_section_id', 'subject_id')
+                    ->withTimestamps();
+    }
 
     public function enrollments()
     {

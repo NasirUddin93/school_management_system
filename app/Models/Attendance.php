@@ -15,6 +15,9 @@ class Attendance extends Model
         'status',
         'remarks',
     ];
+    protected $casts = [
+        'attendance_date' => 'date'
+    ];
 
     /**
      * Attendance belongs to an enrollment (student)

@@ -119,6 +119,7 @@
                 <a href="#academics" class="text-white hover:text-accent font-medium">Academics</a>
                 <a href="#admissions" class="text-white hover:text-accent font-medium">Admissions</a>
                 <a href="#contact" class="text-white hover:text-accent font-medium">Contact</a>
+                <a href="frontend/payments" class="text-white hover:text-accent font-medium">Payment</a>
             </div>
 
             <div>

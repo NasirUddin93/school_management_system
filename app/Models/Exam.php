@@ -17,6 +17,9 @@ class Exam extends Model
         'teacher_assignment_id',
         'status',
     ];
+    protected $casts = [
+        'exam_date' => 'date'
+    ];
 
     /* ===================================================
      * Relationships
