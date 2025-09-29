@@ -39,7 +39,7 @@ Route::get('/', function () {
 });
 
 Route::get('/frontend/payments', function () {
-    return view('frontend.payments');
+    return view('frontend.pages.payments');
 });
 
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,10 +24,14 @@
                 </div>
             </div>
         </div>
-    </header>
+    </header> --}}
+
+@extends('frontend.layout.app')
+@section('content')
+
 
     <!-- Main Content -->
-    <main class="container mx-auto px-4 py-8">
+    <main class="container mx-auto px-4 py-11">
         <div class="max-w-4xl mx-auto">
             <!-- Page Title -->
             <div class="mb-8">
@@ -155,7 +159,9 @@
         </div>
     </main>
 
-    <!-- Footer -->
+ @endsection
+
+    {{-- <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8 mt-12">
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-between items-center">
@@ -208,4 +214,4 @@
         });
     </script>
 </body>
-</html>
+</html> --}}
