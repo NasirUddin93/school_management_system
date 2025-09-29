@@ -123,7 +123,7 @@
     <!-- Header -->
     <div class="pt-20 pb-12 bg-gradient-to-r from-primary to-blue-700">
         <div class="container mx-auto px-4 text-center">
-            <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">Total Trade Corporation</h1>
+            <h1 class="text-4xl md:text-5xl font-bold text-white mb-4">Shopnobilash United School</h1>
             <p class="text-xl text-blue-100 max-w-2xl mx-auto">Explore our showroom, facilities, events, and selling activities through our photo gallery</p>
         </div>
     </div>
@@ -134,9 +134,9 @@
             <!-- Filter Buttons -->
             <div class="flex flex-wrap justify-center gap-3 mb-8">
                 <button class="filter-btn active px-4 py-2 rounded-full border border-gray-300" data-filter="all">All</button>
-                <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="campus">Selling</button>
+                <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="campus">Students</button>
                 <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="classrooms">Our Customer</button>
-                <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="sports">Key Handover</button>
+                <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="sports">Classroom</button>
                 <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="events">Events</button>
                 <button class="filter-btn px-4 py-2 rounded-full border border-gray-300" data-filter="activities">Activities</button>
             </div>

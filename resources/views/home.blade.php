@@ -111,7 +111,7 @@
                     <!-- <i class="fas fa-graduation-cap text-white text-2xl"></i> -->
                     <img src="{{ asset('images/01 (51).jpeg') }}" alt="School Logo" class="w-10 h-10">
                 </div>
-                <span class="text-xl font-bold ml-2 text-white">Greenfield International</span>
+                <span class="text-xl font-bold ml-2 text-white">Shopnobilash United School</span>
             </div>
 
             <div class="hidden md:flex space-x-8">
@@ -147,7 +147,7 @@
                     <div class="flex items-center mb-4">
                         <div class="bg-primary p-2 rounded-lg">
                         <!-- <i class="fas fa-graduation-cap text-white text-2xl"></i> -->
-                        
+
                         <img src="{{ asset('images/01 (51).jpeg') }}" alt="School Logo" class="w-10 h-10">
                         </div>
                         <span class="text-xl font-bold ml-2">Greenfield International</span>
