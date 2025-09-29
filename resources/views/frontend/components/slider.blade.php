@@ -352,17 +352,17 @@
         }
     </style>
     <div class="gallery-section">
-        <h2 class="gallery-title">Car Gallery</h2>
+        <h2 class="gallery-title">School Gallery</h2>
         <p class="gallery-subtitle">Explore our premium collection of vehicles</p>
 
         <div class="imageContainer">
             <button id="prev" class="arrow left"><i class="fas fa-chevron-left"></i></button>
 
             <div class="centered">
-                <img id="mainImage" src="images/01 (86).jpeg" alt="Main Image" />
+                <img id="mainImage" src="images/01 (1).jpeg" alt="Main Image" />
 
                 <div class="car-info-overlay">
-                    <div class="car-title" id="carTitle">BMW X5</div>
+                    <div class="car-title" id="carTitle">School</div>
                     <div class="car-details">
                         <span><i class="fas fa-calendar-alt mr-1"></i> <span id="carYear">2022</span></span>
                         <span><i class="fas fa-road mr-1"></i> <span id="carMileage">12,000 mi</span></span>
@@ -400,7 +400,7 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Price</div>
-                            <div class="font-semibold text-blue-600" id="modalCarPrice">$65,400</div>
+                            <div class="font-semibold text-blue-600" id="modalCarPrice">Call For Price</div>
                         </div>
                     </div>
                     <div class="spec-item">
@@ -409,7 +409,7 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Year</div>
-                            <div class="font-semibold" id="modalCarYear">2022</div>
+                            <div class="font-semibold" id="modalCarYear">Call For Price</div>
                         </div>
                     </div>
                     <div class="spec-item">
@@ -418,7 +418,7 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Mileage</div>
-                            <div class="font-semibold" id="modalCarMileage">12,000 mi</div>
+                            <div class="font-semibold" id="modalCarMileage">Call For Price</div>
                         </div>
                     </div>
                     <div class="spec-item">
@@ -427,7 +427,7 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Fuel Type</div>
-                            <div class="font-semibold" id="modalCarFuel">Hybrid</div>
+                            <div class="font-semibold" id="modalCarFuel">Call For Price</div>
                         </div>
                     </div>
                     <div class="spec-item">
@@ -436,7 +436,7 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Transmission</div>
-                            <div class="font-semibold" id="modalCarTransmission">Automatic</div>
+                            <div class="font-semibold" id="modalCarTransmission">Call For Price</div>
                         </div>
                     </div>
                     <div class="spec-item">
@@ -445,22 +445,21 @@
                         </div>
                         <div>
                             <div class="text-sm text-gray-500">Engine</div>
-                            <div class="font-semibold" id="modalCarEngine">3.0L V6</div>
+                            <div class="font-semibold" id="modalCarEngine">Call For Price</div>
                         </div>
                     </div>
                 </div>
                 <div class="mt-6">
                     <h3 class="text-lg font-semibold mb-2">Description</h3>
-                    <p id="modalCarDescription">Luxury SUV with premium features and advanced technology. The BMW X5 combines sporty performance with premium comfort. It features a spacious interior with high-quality materials, advanced technology including a digital dashboard and large infotainment screen, and a powerful yet efficient hybrid engine.</p>
+                        <p id="modalCarDescription">Call For Price</p>
                 </div>
                 <div class="mt-6">
                     <h3 class="text-lg font-semibold mb-2">Features</h3>
                     <ul class="list-disc list-inside" id="modalCarFeatures">
-                        <li>Leather seats</li>
+                        <li>Call For Price</li>
                         <li>Navigation system</li>
-                        <li>Premium sound system</li>
-                        <li>Panoramic sunroof</li>
-                        <li>Heated seats</li>
+                        <li>Call For Price</li>
+                        <li>Call For Price</li>
                     </ul>
                 </div>
                 <button class="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-lg font-semibold mt-6">
