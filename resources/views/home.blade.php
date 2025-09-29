@@ -30,7 +30,7 @@
         }
 
         .hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/01 (4).jpeg');
             background-size: cover;
             background-position: center;
         }
@@ -87,7 +87,7 @@
         }
 
         .navbar.scrolled {
-            background-color: rgba(255, 255, 255, 0.95);
+            background-color: rgba(31, 41, 55, 0.95); /* dark */
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
@@ -108,7 +108,8 @@
         <div class="container mx-auto px-4 flex justify-between items-center">
             <div class="flex items-center">
                 <div class="bg-primary p-2 rounded-lg">
-                    <i class="fas fa-graduation-cap text-white text-2xl"></i>
+                    <!-- <i class="fas fa-graduation-cap text-white text-2xl"></i> -->
+                    <img src="{{ asset('images/01 (51).jpeg') }}" alt="School Logo" class="w-10 h-10">
                 </div>
                 <span class="text-xl font-bold ml-2 text-white">Greenfield International</span>
             </div>
@@ -128,8 +129,8 @@
         </div>
     </nav>
 
+    @include('frontend.components.hero')
     @include('frontend.components.slider')
-    {{-- @include('frontend.components.hero') --}}
     @include('frontend.components.counter')
     @include('frontend.components.about')
     @include('frontend.components.academic_program')
@@ -145,7 +146,9 @@
                 <div>
                     <div class="flex items-center mb-4">
                         <div class="bg-primary p-2 rounded-lg">
-                            <i class="fas fa-graduation-cap text-white text-2xl"></i>
+                        <!-- <i class="fas fa-graduation-cap text-white text-2xl"></i> -->
+                        
+                        <img src="{{ asset('images/01 (51).jpeg') }}" alt="School Logo" class="w-10 h-10">
                         </div>
                         <span class="text-xl font-bold ml-2">Greenfield International</span>
                     </div>

@@ -145,7 +145,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6" id="gallery-grid">
                 <!-- Campus Images -->
                 <div class="gallery-item" data-category="campus">
-                    <img src="{{ asset('images/gallery/sold_01.jpg') }}" alt="School Campus" data-caption="Main school building with modern architecture">
+                    <img src="{{ asset('images/01 (1).jpeg') }}" alt="School Campus" data-caption="Main school building with modern architecture">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Key Handover</h3>
                         <p class="text-sm text-gray-600">Key Handover to our Client</p>
@@ -153,7 +153,7 @@
                 </div>
 
                 <div class="gallery-item" data-category="campus">
-                    <img src="{{ asset('images/gallery/sold_02.jpg') }}" alt="School Library" data-caption="Well-stocked library with reading areas">
+                    <img src="{{ asset('images/01 (3).jpeg') }}" alt="School Library" data-caption="Well-stocked library with reading areas">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Warm Congratulation!</h3>
                         <p class="text-sm text-gray-600">We welcomed our client by flower</p>
@@ -162,7 +162,7 @@
 
                 <!-- Classroom Images -->
                 <div class="gallery-item" data-category="classrooms">
-                    <img src="{{ asset('images/gallery/sold_03.jpg') }}" alt="Science Lab" data-caption="Fully equipped science laboratory">
+                    <img src="{{ asset('images/01 (4).jpeg') }}" alt="Science Lab" data-caption="Fully equipped science laboratory">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Car Handover</h3>
                         <p class="text-sm text-gray-600">Symblic Car Handover to client</p>
@@ -170,7 +170,7 @@
                 </div>
 
                 <div class="gallery-item" data-category="classrooms">
-                    <img src="{{ asset('images/gallery/sold_04.jpg') }}" alt="Computer Lab" data-caption="Modern computer lab with latest technology">
+                    <img src="{{ asset('images/01 (11).jpeg') }}" alt="Computer Lab" data-caption="Modern computer lab with latest technology">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Warm Congratulation!</h3>
                         <p class="text-sm text-gray-600">We welcomed our client by flower</p>
@@ -179,7 +179,7 @@
 
                 <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_05.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (15).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Car Handover</h3>
                         <p class="text-sm text-gray-600">Symblic Car Handover to client</p>
@@ -187,7 +187,7 @@
                 </div>
                 <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_06.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (73).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Warm Congratulation!</h3>
                         <p class="text-sm text-gray-600">Symblic Car Handover to client</p>
@@ -195,91 +195,91 @@
                 </div>
                                 <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_07.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (86).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_08.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (86).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_09.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (1).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_10.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (4).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_11.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (11).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_12.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                        <img src="{{ asset('images/01 (15).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_13.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (28).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_14.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (42).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_18.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (43).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_16.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (45).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_17.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (56).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_18.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (73).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>
                     </div>
                 </div>                <!-- Sports Images -->
                 <div class="gallery-item" data-category="sports">
-                    <img src="{{ asset('images/gallery/sold_19.jpg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
+                    <img src="{{ asset('images/01 (86).jpeg') }}" alt="Basketball Court" data-caption="School basketball court during practice">
                     <div class="p-3 bg-white">
                         <h3 class="font-medium text-dark">Showroom Inauguration</h3>
                         <p class="text-sm text-gray-600">Grand Opening Ceremony of the Showroom Today</p>

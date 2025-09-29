@@ -7,7 +7,7 @@
 
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                 <div>
-                    <img src="https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" alt="School Campus" class="rounded-lg shadow-lg">
+                    <img src="images/01 (76).jpeg" alt="School Campus" class="rounded-lg shadow-lg">
                 </div>
                 <div>
                     <h3 class="text-2xl font-bold text-dark mb-4">Our Mission & Vision</h3>
