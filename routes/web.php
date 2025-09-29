@@ -35,7 +35,7 @@ use App\Http\Controllers\Admin\TeacherAssignmentController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
 Route::get('/frontend/payments', function () {
